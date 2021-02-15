@@ -1,3 +1,29 @@
-#directions :hover{
-    color: chartreuse;
+p.directions:hover {
+    color: honeydew;
+    background-color: green;
+}
+#direction{
+  color: red;  
+}
+h3{
+    color: black;
+    font-size: large;
+}
+h6{
+    color: black;
+    font-size: larger;
+}
+
+p{
+    color: black;
+    font-size: medium;
+}
+.charname1{
+    color: brown;
+}
+.charname2{
+    color: cyan;
+}
+.charname3{
+    color: darkorange;
 }
