@@ -27,3 +27,22 @@ p{
 .charname3{
     color: darkorange;
 }
+table{
+    text-align: center;
+    border: 1.5px solid rgb(12, 1, 1);
+    color: black;
+    margin: 20px;
+    
+  }
+   
+  th{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: green;
+    color: white;
+  }
+  thead,tr,td{
+    border: 1px solid black;
+    padding:5px;
+  }
