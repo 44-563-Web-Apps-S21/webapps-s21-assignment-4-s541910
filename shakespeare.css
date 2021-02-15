@@ -20,12 +20,25 @@ p{
 }
 .charname1{
     color: brown;
+   
+      
+}
+.charname1:hover{
+    text-shadow: 3px 3px black;
 }
 .charname2{
     color: cyan;
+    
+}
+.charname2:hover{
+    text-shadow: 3px 3px orange;
 }
 .charname3{
     color: darkorange;
+    
+}
+.charname3:hover{
+    text-shadow:3px 3px black;
 }
 table{
     text-align: center;
